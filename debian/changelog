@@ -1,3 +1,9 @@
+iotop-c (1.23-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Sun, 29 Jan 2023 20:51:49 +0000
+
 iotop-c (1.23-1) unstable; urgency=medium
 
   [ Debian Janitor ]
@@ -12,12 +18,24 @@ iotop-c (1.23-1) unstable; urgency=medium
 
  -- Boian Bonev <bbonev@ipacct.com>  Tue, 24 Jan 2023 00:00:31 +0000
 
+iotop-c (1.22-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Sat, 16 Jul 2022 02:18:46 +0300
+
 iotop-c (1.22-1) unstable; urgency=medium
 
   * Update to new upstream release of 1.22
   * Update standards to 4.6.1, no changes
 
  -- Boian Bonev <bbonev@ipacct.com>  Sat, 09 Jul 2022 23:54:01 +0000
+
+iotop-c (1.21-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Thu, 27 Jan 2022 21:59:45 +0200
 
 iotop-c (1.21-1) unstable; urgency=medium
 
@@ -29,6 +47,12 @@ iotop-c (1.21-1) unstable; urgency=medium
 
  -- Boian Bonev <bbonev@ipacct.com>  Wed, 26 Jan 2022 15:20:46 +0000
 
+iotop-c (1.20-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Sun, 10 Oct 2021 01:42:46 +0000
+
 iotop-c (1.20-1) unstable; urgency=medium
 
   * Update to new upstream release of 1.20
@@ -36,12 +60,32 @@ iotop-c (1.20-1) unstable; urgency=medium
 
  -- Boian Bonev <bbonev@ipacct.com>  Mon, 04 Oct 2021 23:56:24 +0000
 
+iotop-c (1.19-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Tue, 28 Sep 2021 22:51:46 +0000
+
 iotop-c (1.19-1) unstable; urgency=medium
 
   * Update to new upstream release of 1.19
     - Do not crash if TERM is not set
 
  -- Boian Bonev <bbonev@ipacct.com>  Tue, 21 Sep 2021 08:30:10 +0000
+
+iotop-c (1.18-1~bpo11+2) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+  * Backport fix from 1.19
+    - Do not crash if TERM is not set
+
+ -- Boian Bonev <bbonev@ipacct.com>  Wed, 22 Sep 2021 21:08:16 +0000
+
+iotop-c (1.18-1~bpo11+1) bullseye-backports; urgency=medium
+
+  * Rebuild for bullseye-backports.
+
+ -- Boian Bonev <bbonev@ipacct.com>  Mon, 20 Sep 2021 22:47:41 +0000
 
 iotop-c (1.18-1) unstable; urgency=medium
 
